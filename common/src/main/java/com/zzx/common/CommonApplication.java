@@ -1,13 +1,13 @@
-package com.zzx.sofaboots;
+package com.zzx.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SofabootsApplication {
+public class CommonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SofabootsApplication.class, args);
+        SpringApplication.run(CommonApplication.class, args);
     }
 
 }

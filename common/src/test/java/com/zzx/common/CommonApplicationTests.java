@@ -1,11 +1,10 @@
-package com.zzx.sofaboots;
-
+package com.zzx.common;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SofabootsApplicationTests {
+public class CommonApplicationTests {
 
     @Test
     void contextLoads() {
